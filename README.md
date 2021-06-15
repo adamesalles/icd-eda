@@ -9,7 +9,7 @@ Exploratory Data Analysis of the vgsales db.
 
 # To-Do
 
- - [ ] Limpar os dados e criar um DataFrame principal
+ - [x] Limpar os dados e criar um DataFrame principal
  - [ ] Criar subsets
  - [ ] Plots QuantxQuant
  - [ ] Animação

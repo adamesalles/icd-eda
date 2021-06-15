@@ -1,4 +1,6 @@
 import pandas as pd
+
+
 def get_db():
     db = pd.read_csv("vgsales.csv")
     db = pd.DataFrame(db)
