@@ -17,4 +17,5 @@
 
 1. Jogos mais vendidos
 2. Gêneros mais vendidos
-3. Vendas e Jogos por ano
+3. Principais plataformas
+4. Vendas e Jogos por ano
