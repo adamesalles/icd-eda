@@ -1,17 +1,19 @@
 # ICD EDA
 Exploratory Data Analysis of the vgsales db.
 
-# Temas
+![](https://img.shields.io/github/contributors/adamesalles/icd-eda?style=for-the-badge) ![](https://img.shields.io/github/commit-activity/m/adamesalles/icd-eda?color=red&style=for-the-badge)
 
- - Carol: LEGO/GTA/Vou Pensar 
- - Edu: Principais Franquias da Nintendo
- - Tiago: Geral/Regiao/
+ - [vgsales](https://www.kaggle.com/kedokedokedo/vgsales)
 
-# To-Do
+# Integrantes
 
- - [x] Limpar os dados e criar um DataFrame principal
- - [ ] Criar subsets
- - [ ] Plots QuantxQuant
- - [ ] Animação
+ - [Ana Carolina Erthal Fernandes](https://github.com/anacarolerthal)
+ - [Eduardo Adame Salles](https://github.com/adamesalles)
+ - [Tiago Barradas Figueiredo](https://github.com/barrafas)
  
- 
+
+> O método set_theme() do seaborn só está disponível nas versões mais novas do módulo. Certifique-se que ele está atualizado.
+
+```bash
+pip install --upgrade seaborn
+```
