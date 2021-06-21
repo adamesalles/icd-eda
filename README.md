@@ -1,7 +1,9 @@
 # ICD EDA
 Exploratory Data Analysis of the vgsales db.
 
-![](https://img.shields.io/github/contributors/adamesalles/icd-eda?style=for-the-badge) ![](https://img.shields.io/github/commit-activity/m/adamesalles/icd-eda?color=red&style=for-the-badge)
+Considere ler o trabalho pelo visualizador do [nbviewer](https://nbviewer.jupyter.org/github/adamesalles/icd-eda/blob/main/Trabalho%20Final.ipynb).
+
+![](https://img.shields.io/github/contributors/adamesalles/icd-eda?style=for-the-badge)
 
  - [vgsales](https://www.kaggle.com/kedokedokedo/vgsales)
 
