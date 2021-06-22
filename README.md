@@ -13,6 +13,7 @@ Caso o notebook não esteja atualizado no NBViewer (basta ver se há conclusão)
 # Integrantes
 
  - [Ana Carolina Erthal Fernandes](https://github.com/anacarolerthal)
+ - [Eduardo Adame Salles](https://github.com/adamesalles)
  - [Tiago Barradas Figueiredo](https://github.com/barrafas)
  
 
