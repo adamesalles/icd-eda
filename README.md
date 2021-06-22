@@ -1,7 +1,7 @@
 # ICD EDA
 Exploratory Data Analysis of the vgsales db.
 
-Considere ler o trabalho pelo visualizador do [nbviewer](https://nbviewer.jupyter.org/github/adamesalles/icd-eda/blob/main/Trabalho%20Final.ipynb).
+Considere ler o trabalho pelo visualizador do [nbviewer](https://nbviewer.jupyter.org/github/adamesalles/icd-eda/blob/main/Trabalho%20Final.ipynb?flush_cache=True).
 
 ![](https://img.shields.io/github/contributors/adamesalles/icd-eda?style=for-the-badge)
 
