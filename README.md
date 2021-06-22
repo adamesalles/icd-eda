@@ -1,7 +1,10 @@
 # ICD EDA
 Exploratory Data Analysis of the vgsales db.
 
-Considere ler o trabalho pelo visualizador do [nbviewer](https://nbviewer.jupyter.org/github/adamesalles/icd-eda/blob/main/Trabalho%20Final.ipynb?flush_cache=True).
+Considere ler o trabalho pelo visualizador do [nbviewer](https://nbviewer.jupyter.org/github/adamesalles/icd-eda/blob/main/Trabalho%20Final.ipynb).
+
+Caso o notebook não esteja atualizado no NBViewer (basta ver se há conclusão): 
+[nbviewer (flush_cache = True)](https://nbviewer.jupyter.org/github/adamesalles/icd-eda/blob/main/Trabalho%20Final.ipynb?flush_cache=True)
 
 ![](https://img.shields.io/github/contributors/adamesalles/icd-eda?style=for-the-badge)
 
@@ -10,7 +13,6 @@ Considere ler o trabalho pelo visualizador do [nbviewer](https://nbviewer.jupyte
 # Integrantes
 
  - [Ana Carolina Erthal Fernandes](https://github.com/anacarolerthal)
- - [Eduardo Adame Salles](https://github.com/adamesalles)
  - [Tiago Barradas Figueiredo](https://github.com/barrafas)
  
 
